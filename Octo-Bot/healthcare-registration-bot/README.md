@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Healthcare-registration-bot
+=======
+# Octo-Bot: Healthcare automatic registration bot
+>>>>>>> cd9914b68d1cf3697c102607d2196798eb47a20c
 
 ## Introduction
 This bot is specially developed for automating creation user accounts for development server of NUSMed website
