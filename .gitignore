@@ -1,7 +1,9 @@
 # Project file
 .idea/
 *.iml
+.idea/workspace.xml
 
 # Build cache
 *.pyc
 __pycache__/
+/.idea/
